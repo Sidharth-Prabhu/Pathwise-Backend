@@ -1,0 +1,2845 @@
+{
+  "meta": {
+    "title": "Fresher-suitable engineering job roles across top companies (by department)",
+    "generated_on": "2026-09-24",
+    "salary_unit": "LPA = lakhs per annum, INR, approximate fixed + typical variable CTC for a fresher (0-1 yr) in India"
+  },
+  "roles": [
+    {
+      "id": "SW-001",
+      "role": "Software Development Engineer (SDE-1 / Software Engineer)",
+      "category": "Software Engineering",
+      "eligible_departments": [
+        "CSE",
+        "AI&DS",
+        "AI&ML",
+        "IT",
+        "ECE",
+        "EEE"
+      ],
+      "description": "Design, code, test and ship features for large-scale products and platforms.",
+      "skills": {
+        "core": [
+          "Data structures & algorithms",
+          "OOP (Java/C++/Python)",
+          "Problem solving",
+          "DBMS & SQL",
+          "Operating systems",
+          "Git",
+          "REST APIs"
+        ],
+        "good_to_have": [
+          "System design basics",
+          "Cloud (AWS/Azure/GCP)",
+          "Unit testing",
+          "Computer networks",
+          "Agile/Scrum"
+        ]
+      },
+      "hiring_companies": [
+        {
+          "tier": "Big Tech & top product companies",
+          "companies": [
+            "Google",
+            "Microsoft",
+            "Amazon",
+            "Apple",
+            "Meta",
+            "NVIDIA"
+          ],
+          "salary_lpa": {
+            "min": 25,
+            "max": 48
+          }
+        },
+        {
+          "tier": "Global product & enterprise software",
+          "companies": [
+            "Adobe",
+            "Salesforce",
+            "Uber",
+            "Atlassian",
+            "Oracle",
+            "IBM",
+            "Cisco",
+            "Intel",
+            "Qualcomm",
+            "Samsung",
+            "Dell Technologies",
+            "HP",
+            "VMware",
+            "ServiceNow",
+            "SAP",
+            "PayPal",
+            "Visa",
+            "Mastercard",
+            "Walmart Global Tech",
+            "Databricks",
+            "Snowflake",
+            "Palantir",
+            "SAS"
+          ],
+          "salary_lpa": {
+            "min": 12,
+            "max": 32
+          }
+        },
+        {
+          "tier": "Indian tech unicorns / product firms",
+          "companies": [
+            "Flipkart",
+            "PhonePe",
+            "Razorpay",
+            "Meesho",
+            "Swiggy",
+            "Zomato"
+          ],
+          "salary_lpa": {
+            "min": 15,
+            "max": 32
+          }
+        },
+        {
+          "tier": "Mid-tier Indian product firms",
+          "companies": [
+            "Freshworks",
+            "Paytm"
+          ],
+          "salary_lpa": {
+            "min": 8,
+            "max": 18
+          }
+        },
+        {
+          "tier": "Zoho",
+          "companies": [
+            "Zoho"
+          ],
+          "salary_lpa": {
+            "min": 6,
+            "max": 10
+          }
+        },
+        {
+          "tier": "Investment-bank technology",
+          "companies": [
+            "Goldman Sachs",
+            "JPMorgan Chase",
+            "Morgan Stanley"
+          ],
+          "salary_lpa": {
+            "min": 18,
+            "max": 32
+          }
+        },
+        {
+          "tier": "Quant & trading firms",
+          "companies": [
+            "DE Shaw",
+            "Two Sigma"
+          ],
+          "salary_lpa": {
+            "min": 30,
+            "max": 70
+          }
+        },
+        {
+          "tier": "IT services - premium tracks",
+          "companies": [
+            "TCS",
+            "Infosys",
+            "Wipro",
+            "HCLTech",
+            "Cognizant",
+            "Capgemini",
+            "Accenture"
+          ],
+          "salary_lpa": {
+            "min": 6,
+            "max": 11
+          }
+        }
+      ],
+      "salary_lpa_overall": {
+        "min": 6,
+        "max": 70
+      }
+    },
+    {
+      "id": "SW-002",
+      "role": "Associate Software Engineer / Systems Engineer (IT Services)",
+      "category": "Software Engineering",
+      "eligible_departments": [
+        "AI&DS",
+        "CSE",
+        "MECH",
+        "AI&ML",
+        "VLSI",
+        "ECE",
+        "BIOTECH",
+        "EEE",
+        "IT",
+        "CIVIL",
+        "CHEM"
+      ],
+      "description": "Entry-level developer or engineer on client projects; broad training programme then project allocation.",
+      "skills": {
+        "core": [
+          "One programming language (Java/Python/C#)",
+          "SQL basics",
+          "Aptitude & logical reasoning",
+          "Communication",
+          "Basic OOP"
+        ],
+        "good_to_have": [
+          "Data structures",
+          "Web basics (HTML/JS)",
+          "Cloud fundamentals",
+          "Testing basics"
+        ]
+      },
+      "hiring_companies": [
+        {
+          "tier": "Mass recruiters - standard track",
+          "companies": [
+            "TCS",
+            "Infosys",
+            "Wipro",
+            "HCLTech",
+            "Cognizant",
+            "Capgemini",
+            "Accenture",
+            "Tech Mahindra"
+          ],
+          "salary_lpa": {
+            "min": 3.2,
+            "max": 5
+          }
+        },
+        {
+          "tier": "Engineering R&D services",
+          "companies": [
+            "Tata Elxsi",
+            "Tata Technologies",
+            "L&T Technology Services",
+            "Cyient",
+            "Quest Global",
+            "Sasken Technologies",
+            "eInfochips",
+            "VVDN Technologies"
+          ],
+          "salary_lpa": {
+            "min": 3.5,
+            "max": 7
+          }
+        }
+      ],
+      "salary_lpa_overall": {
+        "min": 3.2,
+        "max": 11
+      }
+    },
+    {
+      "id": "SW-003",
+      "role": "Frontend / Web Developer",
+      "category": "Software Engineering",
+      "eligible_departments": [
+        "CSE",
+        "AI&DS",
+        "AI&ML",
+        "IT",
+        "ECE",
+        "EEE"
+      ],
+      "description": "Build responsive user interfaces and web apps.",
+      "skills": {
+        "core": [
+          "HTML/CSS/JavaScript",
+          "React/Angular/Vue",
+          "TypeScript",
+          "Responsive design",
+          "REST/GraphQL consumption",
+          "Git"
+        ],
+        "good_to_have": [
+          "Web performance",
+          "Accessibility",
+          "Testing (Jest/Cypress)",
+          "Design systems"
+        ]
+      },
+      "hiring_companies": [
+        {
+          "tier": "Big Tech",
+          "companies": [
+            "Google",
+            "Microsoft",
+            "Amazon",
+            "Apple",
+            "Meta",
+            "NVIDIA"
+          ],
+          "salary_lpa": {
+            "min": 22,
+            "max": 42
+          }
+        },
+        {
+          "tier": "Indian product firms",
+          "companies": [
+            "Flipkart",
+            "PhonePe",
+            "Razorpay",
+            "Meesho",
+            "Swiggy",
+            "Zomato"
+          ],
+          "salary_lpa": {
+            "min": 12,
+            "max": 28
+          }
+        }
+      ],
+      "salary_lpa_overall": {
+        "min": 4,
+        "max": 42
+      }
+    },
+    {
+      "id": "SW-004",
+      "role": "Backend Developer (Java / Spring Boot / Node / Python)",
+      "category": "Software Engineering",
+      "eligible_departments": [
+        "CSE",
+        "AI&DS",
+        "AI&ML",
+        "IT",
+        "ECE",
+        "EEE"
+      ],
+      "description": "Build APIs, services and business logic behind applications.",
+      "skills": {
+        "core": [
+          "Java/Python/Node.js",
+          "Spring Boot / Django / Express",
+          "SQL & NoSQL databases",
+          "REST APIs",
+          "Data structures & algorithms",
+          "Git"
+        ],
+        "good_to_have": [
+          "Microservices",
+          "Message queues (Kafka/RabbitMQ)",
+          "Docker",
+          "Caching (Redis)",
+          "Cloud basics"
+        ]
+      },
+      "hiring_companies": [
+        {
+          "tier": "Big Tech",
+          "companies": [
+            "Google",
+            "Microsoft",
+            "Amazon",
+            "Apple",
+            "Meta",
+            "NVIDIA"
+          ],
+          "salary_lpa": {
+            "min": 24,
+            "max": 45
+          }
+        },
+        {
+          "tier": "Global product",
+          "companies": [
+            "Adobe",
+            "Salesforce",
+            "Uber",
+            "Atlassian",
+            "Oracle",
+            "IBM",
+            "Cisco",
+            "Intel",
+            "Qualcomm",
+            "Samsung"
+          ],
+          "salary_lpa": {
+            "min": 12,
+            "max": 30
+          }
+        }
+      ],
+      "salary_lpa_overall": {
+        "min": 4,
+        "max": 45
+      }
+    },
+    {
+      "id": "DA-005",
+      "role": "Data Scientist (Associate)",
+      "category": "Data, AI & Quant",
+      "eligible_departments": [
+        "AI&ML",
+        "AI&DS",
+        "CSE",
+        "IT",
+        "ECE",
+        "EEE"
+      ],
+      "description": "Build predictive models and extract insights from data.",
+      "skills": {
+        "core": [
+          "Python",
+          "Statistics & probability",
+          "Machine learning (scikit-learn)",
+          "SQL",
+          "Data visualisation",
+          "Feature engineering"
+        ],
+        "good_to_have": [
+          "Deep learning",
+          "Experiment design",
+          "Cloud ML",
+          "Business communication"
+        ]
+      },
+      "hiring_companies": [
+        {
+          "tier": "Big Tech",
+          "companies": [
+            "Google",
+            "Microsoft",
+            "Amazon",
+            "Meta",
+            "NVIDIA"
+          ],
+          "salary_lpa": {
+            "min": 20,
+            "max": 40
+          }
+        },
+        {
+          "tier": "Indian product firms",
+          "companies": [
+            "Flipkart",
+            "PhonePe",
+            "Razorpay",
+            "Meesho",
+            "Swiggy",
+            "Zomato",
+            "Freshworks",
+            "Paytm"
+          ],
+          "salary_lpa": {
+            "min": 12,
+            "max": 28
+          }
+        }
+      ],
+      "salary_lpa_overall": {
+        "min": 4,
+        "max": 40
+      }
+    },
+    {
+      "id": "DA-007",
+      "role": "Machine Learning Engineer",
+      "category": "Data, AI & Quant",
+      "eligible_departments": [
+        "AI&ML",
+        "AI&DS",
+        "CSE",
+        "IT",
+        "ECE"
+      ],
+      "description": "Train, optimise and deploy ML models into production products.",
+      "skills": {
+        "core": [
+          "Python",
+          "ML algorithms",
+          "Deep learning (PyTorch/TF)",
+          "Data structures",
+          "SQL",
+          "Model evaluation"
+        ],
+        "good_to_have": [
+          "MLOps",
+          "Docker",
+          "Cloud ML services",
+          "Distributed training"
+        ]
+      },
+      "hiring_companies": [
+        {
+          "tier": "Big Tech",
+          "companies": [
+            "Google",
+            "Microsoft",
+            "Amazon",
+            "Apple",
+            "Meta",
+            "NVIDIA"
+          ],
+          "salary_lpa": {
+            "min": 22,
+            "max": 45
+          }
+        }
+      ],
+      "salary_lpa_overall": {
+        "min": 4,
+        "max": 45
+      }
+    },
+    {
+      "id": "VL-001",
+      "role": "RTL Design Engineer (ASIC)",
+      "category": "VLSI & Semiconductor",
+      "eligible_departments": [
+        "VLSI",
+        "ECE",
+        "EEE"
+      ],
+      "description": "Write and integrate synthesizable RTL for SoC/IP blocks.",
+      "skills": {
+        "core": [
+          "Verilog/SystemVerilog",
+          "Digital design & FSMs",
+          "Computer architecture",
+          "Timing & clocking basics",
+          "Linting/CDC basics",
+          "Scripting (Tcl/Python)"
+        ],
+        "good_to_have": [
+          "Low-power design",
+          "AMBA protocols (AXI)",
+          "Synthesis flow",
+          "FPGA prototyping"
+        ]
+      },
+      "hiring_companies": [
+        {
+          "tier": "Top fabless / IDM design centres",
+          "companies": [
+            "NVIDIA",
+            "Apple",
+            "Qualcomm",
+            "AMD",
+            "Broadcom",
+            "Marvell Technology",
+            "ARM"
+          ],
+          "salary_lpa": {
+            "min": 18,
+            "max": 40
+          }
+        }
+      ],
+      "salary_lpa_overall": {
+        "min": 3.5,
+        "max": 40
+      }
+    },
+    {
+      "id": "EM-001",
+      "role": "Embedded Software / Firmware Engineer",
+      "category": "Embedded, Electronics & Communication",
+      "eligible_departments": [
+        "ECE",
+        "VLSI",
+        "EEE",
+        "CSE",
+        "AI&ML",
+        "AI&DS",
+        "IT"
+      ],
+      "description": "Write low-level C/C++ software for microcontrollers and devices.",
+      "skills": {
+        "core": [
+          "C/C++",
+          "Microcontrollers (ARM Cortex-M)",
+          "RTOS",
+          "Communication protocols (UART/SPI/I2C/CAN)",
+          "Debugging (JTAG)",
+          "Digital electronics"
+        ],
+        "good_to_have": [
+          "Embedded Linux",
+          "Python scripting",
+          "Unit testing",
+          "Low-power design"
+        ]
+      },
+      "hiring_companies": [
+        {
+          "tier": "Silicon leaders",
+          "companies": [
+            "NVIDIA",
+            "Qualcomm",
+            "AMD",
+            "Intel",
+            "Broadcom"
+          ],
+          "salary_lpa": {
+            "min": 14,
+            "max": 30
+          }
+        }
+      ],
+      "salary_lpa_overall": {
+        "min": 3.5,
+        "max": 40
+      }
+    },
+    {
+      "id": "CO-001",
+      "role": "Graduate Engineer Trainee (GET) - General",
+      "category": "Mechanical, Manufacturing & Core Engineering",
+      "eligible_departments": [
+        "MECH",
+        "EEE",
+        "ECE",
+        "CIVIL",
+        "CHEM"
+      ],
+      "description": "Rotational trainee programme across design, production, quality and projects.",
+      "skills": {
+        "core": [
+          "Engineering fundamentals",
+          "Problem solving",
+          "Aptitude & communication",
+          "Teamwork",
+          "Basic CAD/Excel"
+        ],
+        "good_to_have": [
+          "Lean/Six Sigma basics",
+          "MS Office/SAP basics",
+          "Internship experience"
+        ]
+      },
+      "hiring_companies": [
+        {
+          "tier": "Indian auto OEMs",
+          "companies": [
+            "Tata Motors",
+            "Mahindra & Mahindra",
+            "Ashok Leyland",
+            "Maruti Suzuki",
+            "Bajaj Auto",
+            "TVS Motor Company",
+            "Royal Enfield",
+            "Hero MotoCorp"
+          ],
+          "salary_lpa": {
+            "min": 4,
+            "max": 9
+          }
+        }
+      ],
+      "salary_lpa_overall": {
+        "min": 3.5,
+        "max": 16
+      }
+    },
+    {
+      "id": "BT-001",
+      "role": "Research Associate (R&D / Discovery)",
+      "category": "Biotechnology, Pharma & Life Sciences",
+      "eligible_departments": [
+        "BIOTECH",
+        "CHEM"
+      ],
+      "description": "Perform lab experiments in discovery, biology or chemistry teams.",
+      "skills": {
+        "core": [
+          "Molecular biology techniques (PCR, cloning)",
+          "Cell culture",
+          "Lab safety & documentation",
+          "Assay development",
+          "Data analysis"
+        ],
+        "good_to_have": [
+          "Protein expression/purification",
+          "ELISA/Western blot",
+          "Statistics (GraphPad)"
+        ]
+      },
+      "hiring_companies": [
+        {
+          "tier": "Indian biotech & pharma",
+          "companies": [
+            "Biocon",
+            "Biocon Biologics",
+            "Serum Institute of India",
+            "Bharat Biotech",
+            "Dr. Reddy's Laboratories",
+            "Sun Pharmaceutical Industries",
+            "Cipla"
+          ],
+          "salary_lpa": {
+            "min": 3,
+            "max": 6.5
+          }
+        }
+      ],
+      "salary_lpa_overall": {
+        "min": 3,
+        "max": 14
+      }
+    }
+  ],
+  "company_index": {
+    "Google": {
+      "careers_url": "https://www.google.com/about/careers",
+      "listed_in_departments": [
+        "AI&DS",
+        "AI&ML",
+        "CSE",
+        "ECE",
+        "EEE",
+        "IT"
+      ],
+      "role_ids": [
+        "DA-005",
+        "DA-007",
+        "SW-001",
+        "SW-003",
+        "SW-004"
+      ]
+    },
+    "Microsoft": {
+      "careers_url": "https://careers.microsoft.com",
+      "listed_in_departments": [
+        "AI&DS",
+        "AI&ML",
+        "CSE",
+        "ECE",
+        "EEE",
+        "IT"
+      ],
+      "role_ids": [
+        "DA-005",
+        "DA-007",
+        "SW-001",
+        "SW-003",
+        "SW-004"
+      ]
+    },
+    "Amazon": {
+      "careers_url": "https://www.amazon.jobs",
+      "listed_in_departments": [
+        "AI&DS",
+        "AI&ML",
+        "CSE",
+        "ECE",
+        "EEE",
+        "IT"
+      ],
+      "role_ids": [
+        "DA-005",
+        "DA-007",
+        "SW-001",
+        "SW-003",
+        "SW-004"
+      ]
+    },
+    "Apple": {
+      "careers_url": "https://jobs.apple.com",
+      "listed_in_departments": [
+        "AI&DS",
+        "AI&ML",
+        "CSE",
+        "ECE",
+        "EEE",
+        "IT",
+        "VLSI"
+      ],
+      "role_ids": [
+        "DA-007",
+        "SW-001",
+        "SW-003",
+        "SW-004",
+        "VL-001"
+      ]
+    },
+    "Meta": {
+      "careers_url": "https://www.metacareers.com",
+      "listed_in_departments": [
+        "AI&DS",
+        "AI&ML",
+        "CSE",
+        "ECE",
+        "EEE",
+        "IT"
+      ],
+      "role_ids": [
+        "DA-005",
+        "DA-007",
+        "SW-001",
+        "SW-003",
+        "SW-004"
+      ]
+    },
+    "NVIDIA": {
+      "careers_url": "https://www.nvidia.com/en-us/about-nvidia/careers",
+      "listed_in_departments": [
+        "AI&DS",
+        "AI&ML",
+        "CSE",
+        "ECE",
+        "EEE",
+        "IT",
+        "VLSI"
+      ],
+      "role_ids": [
+        "DA-005",
+        "DA-007",
+        "EM-001",
+        "SW-001",
+        "SW-003",
+        "SW-004",
+        "VL-001"
+      ]
+    },
+    "Adobe": {
+      "careers_url": "https://www.google.com/search?q=Adobe+careers",
+      "listed_in_departments": [
+        "AI&DS",
+        "AI&ML",
+        "CSE",
+        "ECE",
+        "EEE",
+        "IT"
+      ],
+      "role_ids": [
+        "SW-001",
+        "SW-004"
+      ]
+    },
+    "Salesforce": {
+      "careers_url": "https://www.google.com/search?q=Salesforce+careers",
+      "listed_in_departments": [
+        "AI&DS",
+        "AI&ML",
+        "CSE",
+        "ECE",
+        "EEE",
+        "IT"
+      ],
+      "role_ids": [
+        "SW-001",
+        "SW-004"
+      ]
+    },
+    "Uber": {
+      "careers_url": "https://www.google.com/search?q=Uber+careers",
+      "listed_in_departments": [
+        "AI&DS",
+        "AI&ML",
+        "CSE",
+        "ECE",
+        "EEE",
+        "IT"
+      ],
+      "role_ids": [
+        "SW-001",
+        "SW-004"
+      ]
+    },
+    "Atlassian": {
+      "careers_url": "https://www.google.com/search?q=Atlassian+careers",
+      "listed_in_departments": [
+        "AI&DS",
+        "AI&ML",
+        "CSE",
+        "ECE",
+        "EEE",
+        "IT"
+      ],
+      "role_ids": [
+        "SW-001",
+        "SW-004"
+      ]
+    },
+    "Oracle": {
+      "careers_url": "https://www.google.com/search?q=Oracle+careers",
+      "listed_in_departments": [
+        "AI&DS",
+        "AI&ML",
+        "CSE",
+        "ECE",
+        "EEE",
+        "IT"
+      ],
+      "role_ids": [
+        "SW-001",
+        "SW-004"
+      ]
+    },
+    "IBM": {
+      "careers_url": "https://www.google.com/search?q=IBM+careers",
+      "listed_in_departments": [
+        "AI&DS",
+        "AI&ML",
+        "CSE",
+        "ECE",
+        "EEE",
+        "IT"
+      ],
+      "role_ids": [
+        "SW-001",
+        "SW-004"
+      ]
+    },
+    "Cisco": {
+      "careers_url": "https://www.google.com/search?q=Cisco+careers",
+      "listed_in_departments": [
+        "AI&DS",
+        "AI&ML",
+        "CSE",
+        "ECE",
+        "EEE",
+        "IT"
+      ],
+      "role_ids": [
+        "SW-001",
+        "SW-004"
+      ]
+    },
+    "Intel": {
+      "careers_url": "https://jobs.intel.com",
+      "listed_in_departments": [
+        "AI&DS",
+        "AI&ML",
+        "CSE",
+        "ECE",
+        "EEE",
+        "IT",
+        "VLSI"
+      ],
+      "role_ids": [
+        "EM-001",
+        "SW-001",
+        "SW-004"
+      ]
+    },
+    "Qualcomm": {
+      "careers_url": "https://careers.qualcomm.com",
+      "listed_in_departments": [
+        "AI&DS",
+        "AI&ML",
+        "CSE",
+        "ECE",
+        "EEE",
+        "IT",
+        "VLSI"
+      ],
+      "role_ids": [
+        "EM-001",
+        "SW-001",
+        "SW-004",
+        "VL-001"
+      ]
+    },
+    "Samsung": {
+      "careers_url": "https://www.samsung.com/us/careers",
+      "listed_in_departments": [
+        "AI&DS",
+        "AI&ML",
+        "CSE",
+        "ECE",
+        "EEE",
+        "IT"
+      ],
+      "role_ids": [
+        "SW-001",
+        "SW-004"
+      ]
+    },
+    "Dell Technologies": {
+      "careers_url": "https://www.google.com/search?q=Dell+Technologies+careers",
+      "listed_in_departments": [
+        "AI&DS",
+        "AI&ML",
+        "CSE",
+        "ECE",
+        "EEE",
+        "IT"
+      ],
+      "role_ids": [
+        "SW-001"
+      ]
+    },
+    "HP": {
+      "careers_url": "https://www.google.com/search?q=HP+careers",
+      "listed_in_departments": [
+        "AI&DS",
+        "AI&ML",
+        "CSE",
+        "ECE",
+        "EEE",
+        "IT"
+      ],
+      "role_ids": [
+        "SW-001"
+      ]
+    },
+    "VMware": {
+      "careers_url": "https://www.google.com/search?q=VMware+careers",
+      "listed_in_departments": [
+        "AI&DS",
+        "AI&ML",
+        "CSE",
+        "ECE",
+        "EEE",
+        "IT"
+      ],
+      "role_ids": [
+        "SW-001"
+      ]
+    },
+    "ServiceNow": {
+      "careers_url": "https://www.google.com/search?q=ServiceNow+careers",
+      "listed_in_departments": [
+        "AI&DS",
+        "AI&ML",
+        "CSE",
+        "ECE",
+        "EEE",
+        "IT"
+      ],
+      "role_ids": [
+        "SW-001"
+      ]
+    },
+    "SAP": {
+      "careers_url": "https://www.google.com/search?q=SAP+careers",
+      "listed_in_departments": [
+        "AI&DS",
+        "AI&ML",
+        "CSE",
+        "ECE",
+        "EEE",
+        "IT"
+      ],
+      "role_ids": [
+        "SW-001"
+      ]
+    },
+    "PayPal": {
+      "careers_url": "https://www.google.com/search?q=PayPal+careers",
+      "listed_in_departments": [
+        "AI&DS",
+        "AI&ML",
+        "CSE",
+        "ECE",
+        "EEE",
+        "IT"
+      ],
+      "role_ids": [
+        "SW-001"
+      ]
+    },
+    "Visa": {
+      "careers_url": "https://www.google.com/search?q=Visa+careers",
+      "listed_in_departments": [
+        "AI&DS",
+        "AI&ML",
+        "CSE",
+        "ECE",
+        "EEE",
+        "IT"
+      ],
+      "role_ids": [
+        "SW-001"
+      ]
+    },
+    "Mastercard": {
+      "careers_url": "https://www.google.com/search?q=Mastercard+careers",
+      "listed_in_departments": [
+        "AI&DS",
+        "AI&ML",
+        "CSE",
+        "ECE",
+        "EEE",
+        "IT"
+      ],
+      "role_ids": [
+        "SW-001"
+      ]
+    },
+    "Walmart Global Tech": {
+      "careers_url": "https://www.google.com/search?q=Walmart+Global+Tech+careers",
+      "listed_in_departments": [
+        "AI&DS",
+        "AI&ML",
+        "CSE",
+        "ECE",
+        "EEE",
+        "IT"
+      ],
+      "role_ids": [
+        "SW-001"
+      ]
+    },
+    "Databricks": {
+      "careers_url": "https://www.google.com/search?q=Databricks+careers",
+      "listed_in_departments": [
+        "AI&DS",
+        "AI&ML",
+        "CSE",
+        "ECE",
+        "EEE",
+        "IT"
+      ],
+      "role_ids": [
+        "SW-001"
+      ]
+    },
+    "Snowflake": {
+      "careers_url": "https://www.google.com/search?q=Snowflake+careers",
+      "listed_in_departments": [
+        "AI&DS",
+        "AI&ML",
+        "CSE",
+        "ECE",
+        "EEE",
+        "IT"
+      ],
+      "role_ids": [
+        "SW-001"
+      ]
+    },
+    "Palantir": {
+      "careers_url": "https://www.google.com/search?q=Palantir+careers",
+      "listed_in_departments": [
+        "AI&DS",
+        "AI&ML",
+        "CSE",
+        "ECE",
+        "EEE",
+        "IT"
+      ],
+      "role_ids": [
+        "SW-001"
+      ]
+    },
+    "SAS": {
+      "careers_url": "https://www.google.com/search?q=SAS+careers",
+      "listed_in_departments": [
+        "AI&DS",
+        "AI&ML",
+        "CSE",
+        "ECE",
+        "EEE",
+        "IT"
+      ],
+      "role_ids": [
+        "SW-001"
+      ]
+    },
+    "Flipkart": {
+      "careers_url": "https://www.flipkartcareers.com",
+      "listed_in_departments": [
+        "AI&DS",
+        "AI&ML",
+        "CSE",
+        "ECE",
+        "EEE",
+        "IT"
+      ],
+      "role_ids": [
+        "DA-005",
+        "SW-001",
+        "SW-003"
+      ]
+    },
+    "PhonePe": {
+      "careers_url": "https://www.google.com/search?q=PhonePe+careers",
+      "listed_in_departments": [
+        "AI&DS",
+        "AI&ML",
+        "CSE",
+        "ECE",
+        "EEE",
+        "IT"
+      ],
+      "role_ids": [
+        "DA-005",
+        "SW-001",
+        "SW-003"
+      ]
+    },
+    "Razorpay": {
+      "careers_url": "https://www.google.com/search?q=Razorpay+careers",
+      "listed_in_departments": [
+        "AI&DS",
+        "AI&ML",
+        "CSE",
+        "ECE",
+        "EEE",
+        "IT"
+      ],
+      "role_ids": [
+        "DA-005",
+        "SW-001",
+        "SW-003"
+      ]
+    },
+    "Meesho": {
+      "careers_url": "https://www.google.com/search?q=Meesho+careers",
+      "listed_in_departments": [
+        "AI&DS",
+        "AI&ML",
+        "CSE",
+        "ECE",
+        "EEE",
+        "IT"
+      ],
+      "role_ids": [
+        "DA-005",
+        "SW-001",
+        "SW-003"
+      ]
+    },
+    "Swiggy": {
+      "careers_url": "https://www.google.com/search?q=Swiggy+careers",
+      "listed_in_departments": [
+        "AI&DS",
+        "AI&ML",
+        "CSE",
+        "ECE",
+        "EEE",
+        "IT"
+      ],
+      "role_ids": [
+        "DA-005",
+        "SW-001",
+        "SW-003"
+      ]
+    },
+    "Zomato": {
+      "careers_url": "https://www.google.com/search?q=Zomato+careers",
+      "listed_in_departments": [
+        "AI&DS",
+        "AI&ML",
+        "CSE",
+        "ECE",
+        "EEE",
+        "IT"
+      ],
+      "role_ids": [
+        "DA-005",
+        "SW-001",
+        "SW-003"
+      ]
+    },
+    "Freshworks": {
+      "careers_url": "https://www.google.com/search?q=Freshworks+careers",
+      "listed_in_departments": [
+        "AI&DS",
+        "AI&ML",
+        "CSE",
+        "ECE",
+        "EEE",
+        "IT"
+      ],
+      "role_ids": [
+        "DA-005",
+        "SW-001"
+      ]
+    },
+    "Paytm": {
+      "careers_url": "https://www.google.com/search?q=Paytm+careers",
+      "listed_in_departments": [
+        "AI&DS",
+        "AI&ML",
+        "CSE",
+        "ECE",
+        "EEE",
+        "IT"
+      ],
+      "role_ids": [
+        "DA-005",
+        "SW-001"
+      ]
+    },
+    "Zoho": {
+      "careers_url": "https://www.zoho.com/careers",
+      "listed_in_departments": [
+        "AI&DS",
+        "AI&ML",
+        "CSE",
+        "ECE",
+        "EEE",
+        "IT"
+      ],
+      "role_ids": [
+        "SW-001"
+      ]
+    },
+    "Goldman Sachs": {
+      "careers_url": "https://www.google.com/search?q=Goldman+Sachs+careers",
+      "listed_in_departments": [
+        "AI&DS",
+        "AI&ML",
+        "CSE",
+        "ECE",
+        "EEE",
+        "IT"
+      ],
+      "role_ids": [
+        "SW-001"
+      ]
+    },
+    "JPMorgan Chase": {
+      "careers_url": "https://www.google.com/search?q=JPMorgan+Chase+careers",
+      "listed_in_departments": [
+        "AI&DS",
+        "AI&ML",
+        "CSE",
+        "ECE",
+        "EEE",
+        "IT"
+      ],
+      "role_ids": [
+        "SW-001"
+      ]
+    },
+    "Morgan Stanley": {
+      "careers_url": "https://www.google.com/search?q=Morgan+Stanley+careers",
+      "listed_in_departments": [
+        "AI&DS",
+        "AI&ML",
+        "CSE",
+        "ECE",
+        "EEE",
+        "IT"
+      ],
+      "role_ids": [
+        "SW-001"
+      ]
+    },
+    "DE Shaw": {
+      "careers_url": "https://www.google.com/search?q=DE+Shaw+careers",
+      "listed_in_departments": [
+        "AI&DS",
+        "AI&ML",
+        "CSE",
+        "ECE",
+        "EEE",
+        "IT"
+      ],
+      "role_ids": [
+        "SW-001"
+      ]
+    },
+    "Two Sigma": {
+      "careers_url": "https://www.google.com/search?q=Two+Sigma+careers",
+      "listed_in_departments": [
+        "AI&DS",
+        "AI&ML",
+        "CSE",
+        "ECE",
+        "EEE",
+        "IT"
+      ],
+      "role_ids": [
+        "SW-001"
+      ]
+    },
+    "TCS": {
+      "careers_url": "https://www.tcs.com/careers",
+      "listed_in_departments": [
+        "AI&DS",
+        "AI&ML",
+        "BIOTECH",
+        "CHEM",
+        "CIVIL",
+        "CSE",
+        "ECE",
+        "EEE",
+        "IT",
+        "MECH",
+        "VLSI"
+      ],
+      "role_ids": [
+        "SW-001",
+        "SW-002"
+      ]
+    },
+    "Infosys": {
+      "careers_url": "https://www.infosys.com/careers",
+      "listed_in_departments": [
+        "AI&DS",
+        "AI&ML",
+        "BIOTECH",
+        "CHEM",
+        "CIVIL",
+        "CSE",
+        "ECE",
+        "EEE",
+        "IT",
+        "MECH",
+        "VLSI"
+      ],
+      "role_ids": [
+        "SW-001",
+        "SW-002"
+      ]
+    },
+    "Wipro": {
+      "careers_url": "https://careers.wipro.com",
+      "listed_in_departments": [
+        "AI&DS",
+        "AI&ML",
+        "BIOTECH",
+        "CHEM",
+        "CIVIL",
+        "CSE",
+        "ECE",
+        "EEE",
+        "IT",
+        "MECH",
+        "VLSI"
+      ],
+      "role_ids": [
+        "SW-001",
+        "SW-002"
+      ]
+    },
+    "HCLTech": {
+      "careers_url": "https://www.hcltech.com/careers",
+      "listed_in_departments": [
+        "AI&DS",
+        "AI&ML",
+        "BIOTECH",
+        "CHEM",
+        "CIVIL",
+        "CSE",
+        "ECE",
+        "EEE",
+        "IT",
+        "MECH",
+        "VLSI"
+      ],
+      "role_ids": [
+        "SW-001",
+        "SW-002"
+      ]
+    },
+    "Cognizant": {
+      "careers_url": "https://careers.cognizant.com",
+      "listed_in_departments": [
+        "AI&DS",
+        "AI&ML",
+        "BIOTECH",
+        "CHEM",
+        "CIVIL",
+        "CSE",
+        "ECE",
+        "EEE",
+        "IT",
+        "MECH",
+        "VLSI"
+      ],
+      "role_ids": [
+        "SW-001",
+        "SW-002"
+      ]
+    },
+    "Capgemini": {
+      "careers_url": "https://www.google.com/search?q=Capgemini+careers",
+      "listed_in_departments": [
+        "AI&DS",
+        "AI&ML",
+        "BIOTECH",
+        "CHEM",
+        "CIVIL",
+        "CSE",
+        "ECE",
+        "EEE",
+        "IT",
+        "MECH",
+        "VLSI"
+      ],
+      "role_ids": [
+        "SW-001",
+        "SW-002"
+      ]
+    },
+    "Accenture": {
+      "careers_url": "https://www.accenture.com/careers",
+      "listed_in_departments": [
+        "AI&DS",
+        "AI&ML",
+        "BIOTECH",
+        "CHEM",
+        "CIVIL",
+        "CSE",
+        "ECE",
+        "EEE",
+        "IT",
+        "MECH",
+        "VLSI"
+      ],
+      "role_ids": [
+        "SW-001",
+        "SW-002"
+      ]
+    },
+    "Tech Mahindra": {
+      "careers_url": "https://www.mahindra.com/careers",
+      "listed_in_departments": [
+        "AI&DS",
+        "AI&ML",
+        "BIOTECH",
+        "CHEM",
+        "CIVIL",
+        "CSE",
+        "ECE",
+        "EEE",
+        "IT",
+        "MECH",
+        "VLSI"
+      ],
+      "role_ids": [
+        "SW-002"
+      ]
+    },
+    "Tata Elxsi": {
+      "careers_url": "https://www.google.com/search?q=Tata+Elxsi+careers",
+      "listed_in_departments": [
+        "AI&DS",
+        "AI&ML",
+        "BIOTECH",
+        "CHEM",
+        "CIVIL",
+        "CSE",
+        "ECE",
+        "EEE",
+        "IT",
+        "MECH",
+        "VLSI"
+      ],
+      "role_ids": [
+        "SW-002"
+      ]
+    },
+    "Tata Technologies": {
+      "careers_url": "https://www.google.com/search?q=Tata+Technologies+careers",
+      "listed_in_departments": [
+        "AI&DS",
+        "AI&ML",
+        "BIOTECH",
+        "CHEM",
+        "CIVIL",
+        "CSE",
+        "ECE",
+        "EEE",
+        "IT",
+        "MECH",
+        "VLSI"
+      ],
+      "role_ids": [
+        "SW-002"
+      ]
+    },
+    "L&T Technology Services": {
+      "careers_url": "https://www.google.com/search?q=L&T+Technology+Services+careers",
+      "listed_in_departments": [
+        "AI&DS",
+        "AI&ML",
+        "BIOTECH",
+        "CHEM",
+        "CIVIL",
+        "CSE",
+        "ECE",
+        "EEE",
+        "IT",
+        "MECH",
+        "VLSI"
+      ],
+      "role_ids": [
+        "SW-002"
+      ]
+    },
+    "Cyient": {
+      "careers_url": "https://www.google.com/search?q=Cyient+careers",
+      "listed_in_departments": [
+        "AI&DS",
+        "AI&ML",
+        "BIOTECH",
+        "CHEM",
+        "CIVIL",
+        "CSE",
+        "ECE",
+        "EEE",
+        "IT",
+        "MECH",
+        "VLSI"
+      ],
+      "role_ids": [
+        "SW-002"
+      ]
+    },
+    "Quest Global": {
+      "careers_url": "https://www.google.com/search?q=Quest+Global+careers",
+      "listed_in_departments": [
+        "AI&DS",
+        "AI&ML",
+        "BIOTECH",
+        "CHEM",
+        "CIVIL",
+        "CSE",
+        "ECE",
+        "EEE",
+        "IT",
+        "MECH",
+        "VLSI"
+      ],
+      "role_ids": [
+        "SW-002"
+      ]
+    },
+    "Sasken Technologies": {
+      "careers_url": "https://www.google.com/search?q=Sasken+Technologies+careers",
+      "listed_in_departments": [
+        "AI&DS",
+        "AI&ML",
+        "BIOTECH",
+        "CHEM",
+        "CIVIL",
+        "CSE",
+        "ECE",
+        "EEE",
+        "IT",
+        "MECH",
+        "VLSI"
+      ],
+      "role_ids": [
+        "SW-002"
+      ]
+    },
+    "eInfochips": {
+      "careers_url": "https://www.google.com/search?q=eInfochips+careers",
+      "listed_in_departments": [
+        "AI&DS",
+        "AI&ML",
+        "BIOTECH",
+        "CHEM",
+        "CIVIL",
+        "CSE",
+        "ECE",
+        "EEE",
+        "IT",
+        "MECH",
+        "VLSI"
+      ],
+      "role_ids": [
+        "SW-002"
+      ]
+    },
+    "VVDN Technologies": {
+      "careers_url": "https://www.google.com/search?q=VVDN+Technologies+careers",
+      "listed_in_departments": [
+        "AI&DS",
+        "AI&ML",
+        "BIOTECH",
+        "CHEM",
+        "CIVIL",
+        "CSE",
+        "ECE",
+        "EEE",
+        "IT",
+        "MECH",
+        "VLSI"
+      ],
+      "role_ids": [
+        "SW-002"
+      ]
+    },
+    "AMD": {
+      "careers_url": "https://www.google.com/search?q=AMD+careers",
+      "listed_in_departments": [
+        "AI&DS",
+        "AI&ML",
+        "CSE",
+        "ECE",
+        "EEE",
+        "IT",
+        "VLSI"
+      ],
+      "role_ids": [
+        "EM-001",
+        "VL-001"
+      ]
+    },
+    "Broadcom": {
+      "careers_url": "https://www.google.com/search?q=Broadcom+careers",
+      "listed_in_departments": [
+        "AI&DS",
+        "AI&ML",
+        "CSE",
+        "ECE",
+        "EEE",
+        "IT",
+        "VLSI"
+      ],
+      "role_ids": [
+        "EM-001",
+        "VL-001"
+      ]
+    },
+    "Marvell Technology": {
+      "careers_url": "https://www.google.com/search?q=Marvell+Technology+careers",
+      "listed_in_departments": [
+        "ECE",
+        "EEE",
+        "VLSI"
+      ],
+      "role_ids": [
+        "VL-001"
+      ]
+    },
+    "ARM": {
+      "careers_url": "https://www.google.com/search?q=ARM+careers",
+      "listed_in_departments": [
+        "ECE",
+        "EEE",
+        "VLSI"
+      ],
+      "role_ids": [
+        "VL-001"
+      ]
+    },
+    "Tata Motors": {
+      "careers_url": "https://www.tatamotors.com/careers",
+      "listed_in_departments": [
+        "CHEM",
+        "CIVIL",
+        "ECE",
+        "EEE",
+        "MECH"
+      ],
+      "role_ids": [
+        "CO-001"
+      ]
+    },
+    "Mahindra & Mahindra": {
+      "careers_url": "https://www.mahindra.com/careers",
+      "listed_in_departments": [
+        "CHEM",
+        "CIVIL",
+        "ECE",
+        "EEE",
+        "MECH"
+      ],
+      "role_ids": [
+        "CO-001"
+      ]
+    },
+    "Ashok Leyland": {
+      "careers_url": "https://www.google.com/search?q=Ashok+Leyland+careers",
+      "listed_in_departments": [
+        "CHEM",
+        "CIVIL",
+        "ECE",
+        "EEE",
+        "MECH"
+      ],
+      "role_ids": [
+        "CO-001"
+      ]
+    },
+    "Maruti Suzuki": {
+      "careers_url": "https://www.google.com/search?q=Maruti+Suzuki+careers",
+      "listed_in_departments": [
+        "CHEM",
+        "CIVIL",
+        "ECE",
+        "EEE",
+        "MECH"
+      ],
+      "role_ids": [
+        "CO-001"
+      ]
+    },
+    "Bajaj Auto": {
+      "careers_url": "https://www.google.com/search?q=Bajaj+Auto+careers",
+      "listed_in_departments": [
+        "CHEM",
+        "CIVIL",
+        "ECE",
+        "EEE",
+        "MECH"
+      ],
+      "role_ids": [
+        "CO-001"
+      ]
+    },
+    "TVS Motor Company": {
+      "careers_url": "https://www.google.com/search?q=TVS+Motor+Company+careers",
+      "listed_in_departments": [
+        "CHEM",
+        "CIVIL",
+        "ECE",
+        "EEE",
+        "MECH"
+      ],
+      "role_ids": [
+        "CO-001"
+      ]
+    },
+    "Royal Enfield": {
+      "careers_url": "https://www.google.com/search?q=Royal+Enfield+careers",
+      "listed_in_departments": [
+        "CHEM",
+        "CIVIL",
+        "ECE",
+        "EEE",
+        "MECH"
+      ],
+      "role_ids": [
+        "CO-001"
+      ]
+    },
+    "Hero MotoCorp": {
+      "careers_url": "https://www.google.com/search?q=Hero+MotoCorp+careers",
+      "listed_in_departments": [
+        "CHEM",
+        "CIVIL",
+        "ECE",
+        "EEE",
+        "MECH"
+      ],
+      "role_ids": [
+        "CO-001"
+      ]
+    },
+    "Biocon": {
+      "careers_url": "https://www.biocon.com/careers",
+      "listed_in_departments": [
+        "BIOTECH",
+        "CHEM"
+      ],
+      "role_ids": [
+        "BT-001"
+      ]
+    },
+    "Biocon Biologics": {
+      "careers_url": "https://www.biocon.com/careers",
+      "listed_in_departments": [
+        "BIOTECH",
+        "CHEM"
+      ],
+      "role_ids": [
+        "BT-001"
+      ]
+    },
+    "Serum Institute of India": {
+      "careers_url": "https://www.google.com/search?q=Serum+Institute+of+India+careers",
+      "listed_in_departments": [
+        "BIOTECH",
+        "CHEM"
+      ],
+      "role_ids": [
+        "BT-001"
+      ]
+    },
+    "Bharat Biotech": {
+      "careers_url": "https://www.google.com/search?q=Bharat+Biotech+careers",
+      "listed_in_departments": [
+        "BIOTECH",
+        "CHEM"
+      ],
+      "role_ids": [
+        "BT-001"
+      ]
+    },
+    "Dr. Reddy's Laboratories": {
+      "careers_url": "https://www.google.com/search?q=Dr.+Reddy's+Laboratories+careers",
+      "listed_in_departments": [
+        "BIOTECH",
+        "CHEM"
+      ],
+      "role_ids": [
+        "BT-001"
+      ]
+    },
+    "Sun Pharmaceutical Industries": {
+      "careers_url": "https://www.google.com/search?q=Sun+Pharmaceutical+Industries+careers",
+      "listed_in_departments": [
+        "BIOTECH",
+        "CHEM"
+      ],
+      "role_ids": [
+        "BT-001"
+      ]
+    },
+    "Cipla": {
+      "careers_url": "https://www.google.com/search?q=Cipla+careers",
+      "listed_in_departments": [
+        "BIOTECH",
+        "CHEM"
+      ],
+      "role_ids": [
+        "BT-001"
+      ]
+    },
+    "OpenAI": {
+      "careers_url": "https://www.google.com/search?q=OpenAI+careers",
+      "listed_in_departments": [
+        "AI&DS",
+        "AI&ML"
+      ],
+      "role_ids": []
+    },
+    "Anthropic": {
+      "careers_url": "https://www.google.com/search?q=Anthropic+careers",
+      "listed_in_departments": [
+        "AI&DS",
+        "AI&ML"
+      ],
+      "role_ids": []
+    },
+    "Netflix": {
+      "careers_url": "https://www.google.com/search?q=Netflix+careers",
+      "listed_in_departments": [
+        "AI&DS",
+        "CSE"
+      ],
+      "role_ids": []
+    },
+    "Spotify": {
+      "careers_url": "https://www.google.com/search?q=Spotify+careers",
+      "listed_in_departments": [
+        "AI&DS"
+      ],
+      "role_ids": []
+    },
+    "Siemens": {
+      "careers_url": "https://www.google.com/search?q=Siemens+careers",
+      "listed_in_departments": [
+        "AI&DS",
+        "ECE",
+        "MECH"
+      ],
+      "role_ids": []
+    },
+    "Bosch": {
+      "careers_url": "https://www.google.com/search?q=Bosch+careers",
+      "listed_in_departments": [
+        "AI&DS",
+        "ECE",
+        "MECH"
+      ],
+      "role_ids": []
+    },
+    "Tesla": {
+      "careers_url": "https://www.google.com/search?q=Tesla+careers",
+      "listed_in_departments": [
+        "AI&DS",
+        "AI&ML"
+      ],
+      "role_ids": []
+    },
+    "Microsoft Research": {
+      "careers_url": "https://careers.microsoft.com",
+      "listed_in_departments": [
+        "AI&DS"
+      ],
+      "role_ids": []
+    },
+    "Thoughtworks": {
+      "careers_url": "https://www.google.com/search?q=Thoughtworks+careers",
+      "listed_in_departments": [
+        "AI&DS",
+        "CSE"
+      ],
+      "role_ids": []
+    },
+    "McKinsey & Company": {
+      "careers_url": "https://www.google.com/search?q=McKinsey+&+Company+careers",
+      "listed_in_departments": [
+        "AI&DS",
+        "AI&ML",
+        "CSE"
+      ],
+      "role_ids": []
+    },
+    "Deloitte": {
+      "careers_url": "https://www.google.com/search?q=Deloitte+careers",
+      "listed_in_departments": [
+        "AI&ML",
+        "CSE"
+      ],
+      "role_ids": []
+    },
+    "EY": {
+      "careers_url": "https://www.google.com/search?q=EY+careers",
+      "listed_in_departments": [
+        "CSE"
+      ],
+      "role_ids": []
+    },
+    "KPMG": {
+      "careers_url": "https://www.google.com/search?q=KPMG+careers",
+      "listed_in_departments": [
+        "CSE"
+      ],
+      "role_ids": []
+    },
+    "PwC": {
+      "careers_url": "https://www.google.com/search?q=PwC+careers",
+      "listed_in_departments": [
+        "CSE"
+      ],
+      "role_ids": []
+    },
+    "Hyundai Motor India": {
+      "careers_url": "https://www.google.com/search?q=Hyundai+Motor+India+careers",
+      "listed_in_departments": [
+        "MECH"
+      ],
+      "role_ids": []
+    },
+    "Toyota Kirloskar Motor": {
+      "careers_url": "https://www.google.com/search?q=Toyota+Kirloskar+Motor+careers",
+      "listed_in_departments": [
+        "MECH"
+      ],
+      "role_ids": []
+    },
+    "Honda": {
+      "careers_url": "https://www.google.com/search?q=Honda+careers",
+      "listed_in_departments": [
+        "MECH"
+      ],
+      "role_ids": []
+    },
+    "BMW Group": {
+      "careers_url": "https://www.google.com/search?q=BMW+Group+careers",
+      "listed_in_departments": [
+        "MECH"
+      ],
+      "role_ids": []
+    },
+    "Mercedes-Benz": {
+      "careers_url": "https://www.google.com/search?q=Mercedes-Benz+careers",
+      "listed_in_departments": [
+        "MECH"
+      ],
+      "role_ids": []
+    },
+    "Volkswagen": {
+      "careers_url": "https://www.google.com/search?q=Volkswagen+careers",
+      "listed_in_departments": [
+        "MECH"
+      ],
+      "role_ids": []
+    },
+    "ZF Group": {
+      "careers_url": "https://www.google.com/search?q=ZF+Group+careers",
+      "listed_in_departments": [
+        "MECH"
+      ],
+      "role_ids": []
+    },
+    "Continental": {
+      "careers_url": "https://www.google.com/search?q=Continental+careers",
+      "listed_in_departments": [
+        "MECH"
+      ],
+      "role_ids": []
+    },
+    "General Electric": {
+      "careers_url": "https://www.google.com/search?q=General+Electric+careers",
+      "listed_in_departments": [
+        "MECH"
+      ],
+      "role_ids": []
+    },
+    "Caterpillar": {
+      "careers_url": "https://www.google.com/search?q=Caterpillar+careers",
+      "listed_in_departments": [
+        "MECH"
+      ],
+      "role_ids": []
+    },
+    "John Deere": {
+      "careers_url": "https://www.google.com/search?q=John+Deere+careers",
+      "listed_in_departments": [
+        "MECH"
+      ],
+      "role_ids": []
+    },
+    "Cummins": {
+      "careers_url": "https://www.google.com/search?q=Cummins+careers",
+      "listed_in_departments": [
+        "MECH"
+      ],
+      "role_ids": []
+    },
+    "Larsen & Toubro": {
+      "careers_url": "https://www.google.com/search?q=Larsen+&+Toubro+careers",
+      "listed_in_departments": [
+        "ECE",
+        "MECH"
+      ],
+      "role_ids": []
+    },
+    "BHEL": {
+      "careers_url": "https://www.google.com/search?q=BHEL+careers",
+      "listed_in_departments": [
+        "MECH"
+      ],
+      "role_ids": []
+    },
+    "HAL": {
+      "careers_url": "https://www.google.com/search?q=HAL+careers",
+      "listed_in_departments": [
+        "MECH"
+      ],
+      "role_ids": []
+    },
+    "DRDO": {
+      "careers_url": "https://www.google.com/search?q=DRDO+careers",
+      "listed_in_departments": [
+        "ECE",
+        "MECH"
+      ],
+      "role_ids": []
+    },
+    "ISRO": {
+      "careers_url": "https://www.google.com/search?q=ISRO+careers",
+      "listed_in_departments": [
+        "ECE",
+        "MECH"
+      ],
+      "role_ids": []
+    },
+    "Rolls-Royce": {
+      "careers_url": "https://www.google.com/search?q=Rolls-Royce+careers",
+      "listed_in_departments": [
+        "MECH"
+      ],
+      "role_ids": []
+    },
+    "Airbus": {
+      "careers_url": "https://www.google.com/search?q=Airbus+careers",
+      "listed_in_departments": [
+        "MECH"
+      ],
+      "role_ids": []
+    },
+    "Boeing": {
+      "careers_url": "https://www.google.com/search?q=Boeing+careers",
+      "listed_in_departments": [
+        "MECH"
+      ],
+      "role_ids": []
+    },
+    "Schneider Electric": {
+      "careers_url": "https://www.google.com/search?q=Schneider+Electric+careers",
+      "listed_in_departments": [
+        "ECE",
+        "MECH"
+      ],
+      "role_ids": []
+    },
+    "ABB": {
+      "careers_url": "https://www.google.com/search?q=ABB+careers",
+      "listed_in_departments": [
+        "ECE",
+        "MECH"
+      ],
+      "role_ids": []
+    },
+    "Honeywell": {
+      "careers_url": "https://www.google.com/search?q=Honeywell+careers",
+      "listed_in_departments": [
+        "ECE",
+        "MECH"
+      ],
+      "role_ids": []
+    },
+    "Eaton": {
+      "careers_url": "https://www.google.com/search?q=Eaton+careers",
+      "listed_in_departments": [
+        "MECH"
+      ],
+      "role_ids": []
+    },
+    "Saint-Gobain": {
+      "careers_url": "https://www.google.com/search?q=Saint-Gobain+careers",
+      "listed_in_departments": [
+        "MECH"
+      ],
+      "role_ids": []
+    },
+    "Danfoss": {
+      "careers_url": "https://www.google.com/search?q=Danfoss+careers",
+      "listed_in_departments": [
+        "MECH"
+      ],
+      "role_ids": []
+    },
+    "Emerson": {
+      "careers_url": "https://www.google.com/search?q=Emerson+careers",
+      "listed_in_departments": [
+        "MECH"
+      ],
+      "role_ids": []
+    },
+    "Thermax": {
+      "careers_url": "https://www.google.com/search?q=Thermax+careers",
+      "listed_in_departments": [
+        "MECH"
+      ],
+      "role_ids": []
+    },
+    "Kirloskar Group": {
+      "careers_url": "https://www.google.com/search?q=Kirloskar+Group+careers",
+      "listed_in_departments": [
+        "MECH"
+      ],
+      "role_ids": []
+    },
+    "Godrej & Boyce": {
+      "careers_url": "https://www.google.com/search?q=Godrej+&+Boyce+careers",
+      "listed_in_departments": [
+        "MECH"
+      ],
+      "role_ids": []
+    },
+    "Adani Group": {
+      "careers_url": "https://www.google.com/search?q=Adani+Group+careers",
+      "listed_in_departments": [
+        "MECH"
+      ],
+      "role_ids": []
+    },
+    "Reliance Industries": {
+      "careers_url": "https://www.google.com/search?q=Reliance+Industries+careers",
+      "listed_in_departments": [
+        "MECH"
+      ],
+      "role_ids": []
+    },
+    "Tata Steel": {
+      "careers_url": "https://www.google.com/search?q=Tata+Steel+careers",
+      "listed_in_departments": [
+        "MECH"
+      ],
+      "role_ids": []
+    },
+    "JSW Steel": {
+      "careers_url": "https://www.google.com/search?q=JSW+Steel+careers",
+      "listed_in_departments": [
+        "MECH"
+      ],
+      "role_ids": []
+    },
+    "Jindal Steel & Power": {
+      "careers_url": "https://www.google.com/search?q=Jindal+Steel+&+Power+careers",
+      "listed_in_departments": [
+        "MECH"
+      ],
+      "role_ids": []
+    },
+    "GE Aerospace": {
+      "careers_url": "https://www.google.com/search?q=GE+Aerospace+careers",
+      "listed_in_departments": [
+        "ECE",
+        "MECH"
+      ],
+      "role_ids": []
+    },
+    "DeepMind": {
+      "careers_url": "https://www.google.com/search?q=DeepMind+careers",
+      "listed_in_departments": [
+        "AI&ML"
+      ],
+      "role_ids": []
+    },
+    "Mistral AI": {
+      "careers_url": "https://www.google.com/search?q=Mistral+AI+careers",
+      "listed_in_departments": [
+        "AI&ML"
+      ],
+      "role_ids": []
+    },
+    "Cohere": {
+      "careers_url": "https://www.google.com/search?q=Cohere+careers",
+      "listed_in_departments": [
+        "AI&ML"
+      ],
+      "role_ids": []
+    },
+    "Hugging Face": {
+      "careers_url": "https://www.google.com/search?q=Hugging+Face+careers",
+      "listed_in_departments": [
+        "AI&ML"
+      ],
+      "role_ids": []
+    },
+    "Scale AI": {
+      "careers_url": "https://www.google.com/search?q=Scale+AI+careers",
+      "listed_in_departments": [
+        "AI&ML"
+      ],
+      "role_ids": []
+    },
+    "DataRobot": {
+      "careers_url": "https://www.google.com/search?q=DataRobot+careers",
+      "listed_in_departments": [
+        "AI&ML"
+      ],
+      "role_ids": []
+    },
+    "Texas Instruments": {
+      "careers_url": "https://www.google.com/search?q=Texas+Instruments+careers",
+      "listed_in_departments": [
+        "ECE",
+        "VLSI"
+      ],
+      "role_ids": []
+    },
+    "Samsung Semiconductor": {
+      "careers_url": "https://www.samsung.com/us/careers",
+      "listed_in_departments": [
+        "VLSI"
+      ],
+      "role_ids": []
+    },
+    "TSMC": {
+      "careers_url": "https://www.google.com/search?q=TSMC+careers",
+      "listed_in_departments": [
+        "VLSI"
+      ],
+      "role_ids": []
+    },
+    "Micron Technology": {
+      "careers_url": "https://www.google.com/search?q=Micron+Technology+careers",
+      "listed_in_departments": [
+        "ECE",
+        "VLSI"
+      ],
+      "role_ids": []
+    },
+    "SK Hynix": {
+      "careers_url": "https://www.google.com/search?q=SK+Hynix+careers",
+      "listed_in_departments": [
+        "VLSI"
+      ],
+      "role_ids": []
+    },
+    "MediaTek": {
+      "careers_url": "https://www.google.com/search?q=MediaTek+careers",
+      "listed_in_departments": [
+        "ECE",
+        "VLSI"
+      ],
+      "role_ids": []
+    },
+    "Synopsys": {
+      "careers_url": "https://www.google.com/search?q=Synopsys+careers",
+      "listed_in_departments": [
+        "ECE",
+        "VLSI"
+      ],
+      "role_ids": []
+    },
+    "Cadence Design Systems": {
+      "careers_url": "https://www.google.com/search?q=Cadence+Design+Systems+careers",
+      "listed_in_departments": [
+        "ECE",
+        "VLSI"
+      ],
+      "role_ids": []
+    },
+    "Siemens EDA": {
+      "careers_url": "https://www.google.com/search?q=Siemens+EDA+careers",
+      "listed_in_departments": [
+        "ECE",
+        "VLSI"
+      ],
+      "role_ids": []
+    },
+    "Analog Devices": {
+      "careers_url": "https://www.google.com/search?q=Analog+Devices+careers",
+      "listed_in_departments": [
+        "ECE",
+        "VLSI"
+      ],
+      "role_ids": []
+    },
+    "STMicroelectronics": {
+      "careers_url": "https://www.google.com/search?q=STMicroelectronics+careers",
+      "listed_in_departments": [
+        "ECE",
+        "VLSI"
+      ],
+      "role_ids": []
+    },
+    "Infineon Technologies": {
+      "careers_url": "https://www.google.com/search?q=Infineon+Technologies+careers",
+      "listed_in_departments": [
+        "ECE",
+        "VLSI"
+      ],
+      "role_ids": []
+    },
+    "NXP Semiconductors": {
+      "careers_url": "https://www.google.com/search?q=NXP+Semiconductors+careers",
+      "listed_in_departments": [
+        "ECE",
+        "VLSI"
+      ],
+      "role_ids": []
+    },
+    "Renesas Electronics": {
+      "careers_url": "https://www.google.com/search?q=Renesas+Electronics+careers",
+      "listed_in_departments": [
+        "ECE",
+        "VLSI"
+      ],
+      "role_ids": []
+    },
+    "Microchip Technology": {
+      "careers_url": "https://www.google.com/search?q=Microchip+Technology+careers",
+      "listed_in_departments": [
+        "ECE",
+        "VLSI"
+      ],
+      "role_ids": []
+    },
+    "Applied Materials": {
+      "careers_url": "https://www.google.com/search?q=Applied+Materials+careers",
+      "listed_in_departments": [
+        "VLSI"
+      ],
+      "role_ids": []
+    },
+    "Lam Research": {
+      "careers_url": "https://www.google.com/search?q=Lam+Research+careers",
+      "listed_in_departments": [
+        "VLSI"
+      ],
+      "role_ids": []
+    },
+    "ASML": {
+      "careers_url": "https://www.google.com/search?q=ASML+careers",
+      "listed_in_departments": [
+        "VLSI"
+      ],
+      "role_ids": []
+    },
+    "KLA Corporation": {
+      "careers_url": "https://www.google.com/search?q=KLA+Corporation+careers",
+      "listed_in_departments": [
+        "VLSI"
+      ],
+      "role_ids": []
+    },
+    "GlobalFoundries": {
+      "careers_url": "https://www.google.com/search?q=GlobalFoundries+careers",
+      "listed_in_departments": [
+        "VLSI"
+      ],
+      "role_ids": []
+    },
+    "Texas Instruments India": {
+      "careers_url": "https://www.google.com/search?q=Texas+Instruments+India+careers",
+      "listed_in_departments": [
+        "VLSI"
+      ],
+      "role_ids": []
+    },
+    "Maven Systems": {
+      "careers_url": "https://www.google.com/search?q=Maven+Systems+careers",
+      "listed_in_departments": [
+        "VLSI"
+      ],
+      "role_ids": []
+    },
+    "MosChip Technologies": {
+      "careers_url": "https://www.google.com/search?q=MosChip+Technologies+careers",
+      "listed_in_departments": [
+        "ECE",
+        "VLSI"
+      ],
+      "role_ids": []
+    },
+    "Mindgrove Technologies": {
+      "careers_url": "https://www.google.com/search?q=Mindgrove+Technologies+careers",
+      "listed_in_departments": [
+        "ECE",
+        "VLSI"
+      ],
+      "role_ids": []
+    },
+    "Signalchip": {
+      "careers_url": "https://www.google.com/search?q=Signalchip+careers",
+      "listed_in_departments": [
+        "ECE",
+        "VLSI"
+      ],
+      "role_ids": []
+    },
+    "Saankhya Labs": {
+      "careers_url": "https://www.google.com/search?q=Saankhya+Labs+careers",
+      "listed_in_departments": [
+        "ECE",
+        "VLSI"
+      ],
+      "role_ids": []
+    },
+    "Agnisys": {
+      "careers_url": "https://www.google.com/search?q=Agnisys+careers",
+      "listed_in_departments": [
+        "VLSI"
+      ],
+      "role_ids": []
+    },
+    "Synapse Design": {
+      "careers_url": "https://www.google.com/search?q=Synapse+Design+careers",
+      "listed_in_departments": [
+        "VLSI"
+      ],
+      "role_ids": []
+    },
+    "Si2 Microsystems": {
+      "careers_url": "https://www.google.com/search?q=Si2+Microsystems+careers",
+      "listed_in_departments": [
+        "VLSI"
+      ],
+      "role_ids": []
+    },
+    "Samsung Electronics": {
+      "careers_url": "https://www.samsung.com/us/careers",
+      "listed_in_departments": [
+        "ECE"
+      ],
+      "role_ids": []
+    },
+    "Bharat Electronics Limited": {
+      "careers_url": "https://www.google.com/search?q=Bharat+Electronics+Limited+careers",
+      "listed_in_departments": [
+        "ECE"
+      ],
+      "role_ids": []
+    },
+    "Hindustan Aeronautics Limited": {
+      "careers_url": "https://www.google.com/search?q=Hindustan+Aeronautics+Limited+careers",
+      "listed_in_departments": [
+        "ECE"
+      ],
+      "role_ids": []
+    },
+    "Aurobindo Pharma": {
+      "careers_url": "https://www.google.com/search?q=Aurobindo+Pharma+careers",
+      "listed_in_departments": [
+        "BIOTECH"
+      ],
+      "role_ids": []
+    },
+    "Lupin": {
+      "careers_url": "https://www.google.com/search?q=Lupin+careers",
+      "listed_in_departments": [
+        "BIOTECH"
+      ],
+      "role_ids": []
+    },
+    "Zydus Lifesciences": {
+      "careers_url": "https://www.google.com/search?q=Zydus+Lifesciences+careers",
+      "listed_in_departments": [
+        "BIOTECH"
+      ],
+      "role_ids": []
+    },
+    "Glenmark Pharmaceuticals": {
+      "careers_url": "https://www.google.com/search?q=Glenmark+Pharmaceuticals+careers",
+      "listed_in_departments": [
+        "BIOTECH"
+      ],
+      "role_ids": []
+    },
+    "Torrent Pharmaceuticals": {
+      "careers_url": "https://www.google.com/search?q=Torrent+Pharmaceuticals+careers",
+      "listed_in_departments": [
+        "BIOTECH"
+      ],
+      "role_ids": []
+    },
+    "Divi's Laboratories": {
+      "careers_url": "https://www.google.com/search?q=Divi's+Laboratories+careers",
+      "listed_in_departments": [
+        "BIOTECH"
+      ],
+      "role_ids": []
+    },
+    "Syngene International": {
+      "careers_url": "https://www.google.com/search?q=Syngene+International+careers",
+      "listed_in_departments": [
+        "BIOTECH"
+      ],
+      "role_ids": []
+    },
+    "Strand Life Sciences": {
+      "careers_url": "https://www.google.com/search?q=Strand+Life+Sciences+careers",
+      "listed_in_departments": [
+        "BIOTECH"
+      ],
+      "role_ids": []
+    },
+    "Sartorius": {
+      "careers_url": "https://www.google.com/search?q=Sartorius+careers",
+      "listed_in_departments": [
+        "BIOTECH"
+      ],
+      "role_ids": []
+    },
+    "Thermo Fisher Scientific": {
+      "careers_url": "https://www.google.com/search?q=Thermo+Fisher+Scientific+careers",
+      "listed_in_departments": [
+        "BIOTECH"
+      ],
+      "role_ids": []
+    },
+    "Danaher": {
+      "careers_url": "https://www.google.com/search?q=Danaher+careers",
+      "listed_in_departments": [
+        "BIOTECH"
+      ],
+      "role_ids": []
+    },
+    "Roche": {
+      "careers_url": "https://www.google.com/search?q=Roche+careers",
+      "listed_in_departments": [
+        "BIOTECH"
+      ],
+      "role_ids": []
+    },
+    "Novartis": {
+      "careers_url": "https://www.google.com/search?q=Novartis+careers",
+      "listed_in_departments": [
+        "BIOTECH"
+      ],
+      "role_ids": []
+    },
+    "Pfizer": {
+      "careers_url": "https://www.google.com/search?q=Pfizer+careers",
+      "listed_in_departments": [
+        "BIOTECH"
+      ],
+      "role_ids": []
+    },
+    "Johnson & Johnson": {
+      "careers_url": "https://www.google.com/search?q=Johnson+&+Johnson+careers",
+      "listed_in_departments": [
+        "BIOTECH"
+      ],
+      "role_ids": []
+    },
+    "Merck": {
+      "careers_url": "https://www.google.com/search?q=Merck+careers",
+      "listed_in_departments": [
+        "BIOTECH"
+      ],
+      "role_ids": []
+    },
+    "AstraZeneca": {
+      "careers_url": "https://www.google.com/search?q=AstraZeneca+careers",
+      "listed_in_departments": [
+        "BIOTECH"
+      ],
+      "role_ids": []
+    },
+    "GSK": {
+      "careers_url": "https://www.google.com/search?q=GSK+careers",
+      "listed_in_departments": [
+        "BIOTECH"
+      ],
+      "role_ids": []
+    },
+    "Sanofi": {
+      "careers_url": "https://www.google.com/search?q=Sanofi+careers",
+      "listed_in_departments": [
+        "BIOTECH"
+      ],
+      "role_ids": []
+    },
+    "Bayer": {
+      "careers_url": "https://www.google.com/search?q=Bayer+careers",
+      "listed_in_departments": [
+        "BIOTECH"
+      ],
+      "role_ids": []
+    },
+    "Eli Lilly": {
+      "careers_url": "https://www.google.com/search?q=Eli+Lilly+careers",
+      "listed_in_departments": [
+        "BIOTECH"
+      ],
+      "role_ids": []
+    },
+    "Amgen": {
+      "careers_url": "https://www.google.com/search?q=Amgen+careers",
+      "listed_in_departments": [
+        "BIOTECH"
+      ],
+      "role_ids": []
+    },
+    "Regeneron Pharmaceuticals": {
+      "careers_url": "https://www.google.com/search?q=Regeneron+Pharmaceuticals+careers",
+      "listed_in_departments": [
+        "BIOTECH"
+      ],
+      "role_ids": []
+    },
+    "Illumina": {
+      "careers_url": "https://www.google.com/search?q=Illumina+careers",
+      "listed_in_departments": [
+        "BIOTECH"
+      ],
+      "role_ids": []
+    },
+    "QIAGEN": {
+      "careers_url": "https://www.google.com/search?q=QIAGEN+careers",
+      "listed_in_departments": [
+        "BIOTECH"
+      ],
+      "role_ids": []
+    },
+    "Agilent Technologies": {
+      "careers_url": "https://www.google.com/search?q=Agilent+Technologies+careers",
+      "listed_in_departments": [
+        "BIOTECH"
+      ],
+      "role_ids": []
+    },
+    "Becton Dickinson": {
+      "careers_url": "https://www.google.com/search?q=Becton+Dickinson+careers",
+      "listed_in_departments": [
+        "BIOTECH"
+      ],
+      "role_ids": []
+    },
+    "GE HealthCare": {
+      "careers_url": "https://www.google.com/search?q=GE+HealthCare+careers",
+      "listed_in_departments": [
+        "BIOTECH"
+      ],
+      "role_ids": []
+    },
+    "Siemens Healthineers": {
+      "careers_url": "https://www.google.com/search?q=Siemens+Healthineers+careers",
+      "listed_in_departments": [
+        "BIOTECH"
+      ],
+      "role_ids": []
+    },
+    "Abbott Laboratories": {
+      "careers_url": "https://www.google.com/search?q=Abbott+Laboratories+careers",
+      "listed_in_departments": [
+        "BIOTECH"
+      ],
+      "role_ids": []
+    },
+    "Medtronic": {
+      "careers_url": "https://www.google.com/search?q=Medtronic+careers",
+      "listed_in_departments": [
+        "BIOTECH"
+      ],
+      "role_ids": []
+    },
+    "Cytiva": {
+      "careers_url": "https://www.google.com/search?q=Cytiva+careers",
+      "listed_in_departments": [
+        "BIOTECH"
+      ],
+      "role_ids": []
+    },
+    "Lonza": {
+      "careers_url": "https://www.google.com/search?q=Lonza+careers",
+      "listed_in_departments": [
+        "BIOTECH"
+      ],
+      "role_ids": []
+    },
+    "Catalent": {
+      "careers_url": "https://www.google.com/search?q=Catalent+careers",
+      "listed_in_departments": [
+        "BIOTECH"
+      ],
+      "role_ids": []
+    },
+    "Eurofins Scientific": {
+      "careers_url": "https://www.google.com/search?q=Eurofins+Scientific+careers",
+      "listed_in_departments": [
+        "BIOTECH"
+      ],
+      "role_ids": []
+    },
+    "Charles River Laboratories": {
+      "careers_url": "https://www.google.com/search?q=Charles+River+Laboratories+careers",
+      "listed_in_departments": [
+        "BIOTECH"
+      ],
+      "role_ids": []
+    },
+    "Parexel": {
+      "careers_url": "https://www.google.com/search?q=Parexel+careers",
+      "listed_in_departments": [
+        "BIOTECH"
+      ],
+      "role_ids": []
+    },
+    "IQVIA": {
+      "careers_url": "https://www.google.com/search?q=IQVIA+careers",
+      "listed_in_departments": [
+        "BIOTECH"
+      ],
+      "role_ids": []
+    },
+    "ICON plc": {
+      "careers_url": "https://www.google.com/search?q=ICON+plc+careers",
+      "listed_in_departments": [
+        "BIOTECH"
+      ],
+      "role_ids": []
+    },
+    "Tata Medical Center": {
+      "careers_url": "https://www.google.com/search?q=Tata+Medical+Center+careers",
+      "listed_in_departments": [
+        "BIOTECH"
+      ],
+      "role_ids": []
+    },
+    "Syngene": {
+      "careers_url": "https://www.google.com/search?q=Syngene+careers",
+      "listed_in_departments": [
+        "BIOTECH"
+      ],
+      "role_ids": []
+    },
+    "Aragen Life Sciences": {
+      "careers_url": "https://www.google.com/search?q=Aragen+Life+Sciences+careers",
+      "listed_in_departments": [
+        "BIOTECH"
+      ],
+      "role_ids": []
+    },
+    "Strides Pharma Science": {
+      "careers_url": "https://www.google.com/search?q=Strides+Pharma+Science+careers",
+      "listed_in_departments": [
+        "BIOTECH"
+      ],
+      "role_ids": []
+    }
+  }
+}

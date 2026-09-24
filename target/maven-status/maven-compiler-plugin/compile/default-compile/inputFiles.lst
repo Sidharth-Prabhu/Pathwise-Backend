@@ -1,0 +1,14 @@
+/Users/sidharth/development/RIT Pathwise/backend/src/main/java/com/pathwise/DataSeeder.java
+/Users/sidharth/development/RIT Pathwise/backend/src/main/java/com/pathwise/entity/User.java
+/Users/sidharth/development/RIT Pathwise/backend/src/main/java/com/pathwise/BackendApplication.java
+/Users/sidharth/development/RIT Pathwise/backend/src/main/java/com/pathwise/repository/CareerTrackRepository.java
+/Users/sidharth/development/RIT Pathwise/backend/src/main/java/com/pathwise/entity/Course.java
+/Users/sidharth/development/RIT Pathwise/backend/src/main/java/com/pathwise/security/SecurityConfig.java
+/Users/sidharth/development/RIT Pathwise/backend/src/main/java/com/pathwise/repository/LessonRepository.java
+/Users/sidharth/development/RIT Pathwise/backend/src/main/java/com/pathwise/repository/CourseRepository.java
+/Users/sidharth/development/RIT Pathwise/backend/src/main/java/com/pathwise/controller/MainController.java
+/Users/sidharth/development/RIT Pathwise/backend/src/main/java/com/pathwise/controller/AuthController.java
+/Users/sidharth/development/RIT Pathwise/backend/src/main/java/com/pathwise/repository/UserRepository.java
+/Users/sidharth/development/RIT Pathwise/backend/src/main/java/com/pathwise/entity/CareerTrack.java
+/Users/sidharth/development/RIT Pathwise/backend/src/main/java/com/pathwise/entity/Lesson.java
+/Users/sidharth/development/RIT Pathwise/backend/src/main/java/com/pathwise/App.java
