@@ -1,5 +1,6 @@
 package com.pathwise.entity;
 
+import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 import jakarta.persistence.*;
 
 @Entity
@@ -24,6 +25,7 @@ public class Lesson {
 
     @ManyToOne
     @JoinColumn(name = "course_id")
+    @JsonIgnoreProperties("lessons")
     private Course course;
 
     public Long getId() { return id; }
